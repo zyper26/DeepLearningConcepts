@@ -77,11 +77,6 @@ Regularization techniques to prevent overfitting, implemented with NumPy.
 
 ---
 
-### `excersice.py`
-Scratch pad for quick experiments (currently: Bernoulli mask sampling with `np.random.binomial`).
-
----
-
 ## Running the scripts
 
 ```bash
